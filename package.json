@@ -1,0 +1,26 @@
+{
+  "name": "node-game-car",
+  "version": "1.0.0",
+  "description": "node-game-car =============",
+  "main": "jquery.js",
+  "dependencies": {
+    "box2d": "^1.0.0",
+    "box2dweb": "^2.1.0-b",
+    "now": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henricavalcante/node-game-car.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henricavalcante/node-game-car/issues"
+  },
+  "homepage": "https://github.com/henricavalcante/node-game-car#readme"
+}
